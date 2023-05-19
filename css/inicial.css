@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif, Arial;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+    background-image: url(../imagens/Tela\ de\ fundo\ segundaria.jfif);
+}
+
+h1{
+    color: #fff;
+    border-radius: 100px;
+    background-color: #ff4081;
+    margin-top: 20px;
+    padding: 10px 200px;
+    border: none;
+    font-size: 24px;
+    text-align: center;
+    line-height: 1.2px;
+    margin: 50px;
+    display: inline-block;
+}
+
+p{
+    color: #666;
+    font-size: 20px;
+}
+
+.container{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.image-inicial{
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff4081;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #e0396f;
+}
